@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# LOREM IMPSUM
 
-> One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
 
@@ -50,11 +49,6 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
