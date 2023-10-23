@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://davidcostacv.github.io/lorem-ipsum)
 
 
 ## Getting Started
@@ -44,9 +44,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **David Costa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@davidcostacv](https://github.com/davidcostacv)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-costa-65516b248/)
 
 
 
